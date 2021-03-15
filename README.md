@@ -14,10 +14,10 @@ Fiz e estou fazendo alguns cursos e me preparando para uma possivel oportunidade
 Se você esta procurando alguma pessoa que  tenha foco, vontade de aprender e 
 crescer junto com a  empresa, encontrou a pessoa certa...
 
-* Uma área: Back-end
-* Uma linguagem: Python
-* Um framework: Django
-* Um desejo: Ter uma oportunidade
+* Uma área: *Back-end*
+* Uma linguagem: !Python!
+* Um framework: -Django-
+* Um desejo: #Ter uma oportunidade#
 
 <!--
 **JosemarBrito/JosemarBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
