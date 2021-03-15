@@ -1,6 +1,7 @@
 ### Olá
 
 Meu nome é Josemar Brito
+
 Sou de  São Paulo
 Tenho 38 anos de idade
 Busco oportunidades na area de tecnologia , pois sou apaxonado por programação
