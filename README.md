@@ -3,13 +3,16 @@
 Meu nome é Josemar Brito
 
 Sou de  São Paulo
-Tenho 38 anos de idade
-Busco oportunidades na area de tecnologia , pois sou apaxonado por programação
-Apesar de nunca ter trabalhado na are, estudo e busco me aprimorar a cada dia
-Fiz e estou fazendo alguns cursos e me preparando para uma possivel oportunidade
 
-Se você esta procurando alguma pessoa que  tenha foco e vontade de aprender e 
-crescer junto com a  empresa, encontrou a pessoa certa..
+Tenho 38 anos de idade
+
+Busco oportunidades na area de tecnologia , pois sou apaxonado por programação
+Apesar de nunca ter trabalhado na área, estudo e busco me aprimorar a cada dia
+
+Fiz e estou fazendo alguns cursos e me preparando para uma possivel oportunidade.
+
+Se você esta procurando alguma pessoa que  tenha foco, vontade de aprender e 
+crescer junto com a  empresa, encontrou a pessoa certa...
 
 * Uma área: Back-end
 * Uma linguagem: Python
